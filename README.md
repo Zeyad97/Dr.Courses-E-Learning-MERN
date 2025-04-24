@@ -36,4 +36,5 @@ Dr Courses is a modern, scalable e-learning platform developed using the MERN st
 ## 👨‍💻 Author
 
 Created And Developed by Zeyad Abdelwahab & Amr Yasser.
+(This was a tutorial course on YouTube, and we added it and made it better.)
 
